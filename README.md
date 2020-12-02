@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## IDEA
-The idea of this project is to create an app that has Merge Sort, Bubble sor, Heap sort and Quick sort algorithms that the user can play around with.
+The idea of this project is to create an app that has Merge Sort, Bubble sort, Heap sort and Quick sort algorithms that the user can play around with.
 
 ## HOW TO START 
 go to the project folder and open command prompt 
